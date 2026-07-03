@@ -1,0 +1,41 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+/config/state.json
+/config/state_template.json
+/config/db_config.json
+/config/browser_state.json
+
+headers.txt
+
+blocked.png
+
+test.py
+V2.py
+
+#Quito los jsons que he scrappeado
+#data/
+
+
+#Quito el perfil de firefox
+firefox_profile/
